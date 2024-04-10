@@ -1,0 +1,5 @@
+1|Burger|25
+2|chicken|25
+3|tawook|30
+4|Fahita|15
+5|kbda|15

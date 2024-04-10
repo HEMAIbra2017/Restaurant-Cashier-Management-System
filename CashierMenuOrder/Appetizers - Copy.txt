@@ -1,0 +1,2 @@
+1|FriedMozzarela|15
+2|RoastedShrimp|25

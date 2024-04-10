@@ -1,0 +1,6 @@
+1|Burger|25
+2|chicken|30
+4|tawook|25
+7|fahita|20
+3|shawrma|20
+5|kbab|20

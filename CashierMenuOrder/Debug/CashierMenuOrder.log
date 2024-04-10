@@ -1,0 +1,17 @@
+﻿Build started 31/12/2014 02:16:35 م.
+     1>Project "E:\My Study\3rd\Restaurant Cashier Management System\Cashier Menu Order\CashierMenuOrder\CashierMenuOrder.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CashierMenuOrder.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         CashierMenuOrder.vcxproj -> E:\My Study\3rd\Restaurant Cashier Management System\Cashier Menu Order\Debug\CashierMenuOrder.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CashierMenuOrder.unsuccessfulbuild".
+         Touching "Debug\CashierMenuOrder.lastbuildstate".
+     1>Done Building Project "E:\My Study\3rd\Restaurant Cashier Management System\Cashier Menu Order\CashierMenuOrder\CashierMenuOrder.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20
